@@ -15,8 +15,9 @@
   I’m open to collaborating on **data analysis projects**, **dashboard designs**, or any opportunity that helps create value through data.
   
 📫 How to reach me:
-  - [LinkedIn] : https://www.linkedin.com/in/ggowthami/
+  - [LinkedIn]: https://www.linkedin.com/in/ggowthami/
   - Email: gadugugowthami@gmail.com
+  - Portfolio: https://gadugugowthami.wixsite.com/my-portfolio
 
 Feel free to connect, collaborate, or just say hi!
   
